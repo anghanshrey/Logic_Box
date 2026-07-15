@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Loops+%2B+Conditions+%2B+Menus;Star+Pattern+Printing;Even+%2F+Odd+Checker+%2B+Sum+Finder;Built+for+Red+%26+White+Skill+Education)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=LOGIC%20BOX&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Pattern%20Generator%20and%20Number%20Analyzer%20-%20Python%20Fundamentals&descAlignY=58&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Loops+%2B+Conditions+%2B+Menus;Star+Pattern+Printing;Even+%2F+Odd+Checker+%2B+Sum+Finder;Built+for+Red+and+White+Skill+Education)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-✔_Completed-brightgreen?style=for-the-badge)
@@ -13,8 +15,8 @@
 
 ### 🧭 Table of Contents
 
-[Overview](#-project-overview) • [Objective](#-objective) • [Live Demo](#-example-output) • [Flow](#-program-flow) • [Features](#-features) • [Skills](#-skills-demonstrated) • [Getting Started](#-getting-started) • [Structure](#-project-structure) • [Video](#-Video)
-• [Assumptions](#️-assumptions) • [Tech Stack](#️-tech-stack) • [Contact](#-contact-me)
+[Overview](#-project-overview) • [Objective](#-objective) • [Live Demo](#-example-output) • [Flow](#-program-flow) • [Features](#-features) • [Skills](#-skills-demonstrated) • [Getting Started](#-getting-started) • [Structure](#-project-structure) • [Video](#-video)
+• [Assumptions](#-assumptions) • [Tech Stack](#-tech-stack) • [Contact](#-contact-me)
 
 </div>
 
@@ -201,9 +203,11 @@ When it runs, you'll see a menu. Type:
 
 ---
 
-## Video
+## 🎥 Video
 
-video link : 
+Video link :
+
+---
 
 ## 📁 Project Structure
 
@@ -235,7 +239,7 @@ logic-box/
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-your.email%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanghan205@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-shreyanghan205%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanghan205@gmail.com)
 
 </div>
 
