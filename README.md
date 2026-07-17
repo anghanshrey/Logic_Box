@@ -20,7 +20,7 @@
 
 ## 🧭 Table of Contents
 
-[Overview](#-project-overview) • [Objective](#-objective) • [Live Demo](#-example-output) • [Flow](#-program-flow) • [Features](#-features) • [Skills](#-skills-demonstrated) • [Getting Started](#-getting-started) • [Structure](#-project-structure) • [Video](#-video) • [Assumptions](#-assumptions) • [Tech Stack](#-tech-stack) • [Contact](#-contact-me)
+[Overview](#-project-overview) • [Objective](#-objective) • [Example Output](#-example-output) • [Flow](#-program-flow) • [Features](#-features) • [Skills](#-skills-demonstrated) • [Getting Started](#-getting-started) • [Structure](#-project-structure) • [Video](#-video) • [Assumptions](#-assumptions) • [Tech Stack](#-tech-stack) • [Contact](#-contact-me)
 
 ---
 
