@@ -217,7 +217,7 @@ When it runs, you'll see a menu. Type:
 
 ## 🎥 Video
 
-Video link :
+Video link : https://drive.google.com/drive/folders/1OJMU2fV5-LjlDUGYVQ9MhGXtaX9Aq1rh?usp=sharing
 
 ---
 
